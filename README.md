@@ -7,7 +7,7 @@ Programmer & Student
 Learning programming, software engineering, machine learning and everything . With a special emphasis on python ,HTML,CSS,MYSQL,etc... My goal is to prepare myself as a highest qualified programming and tech.
 
 *   🌍  I'm based in INDIA.
-*   ✉️  You can contact me at [NithveenKavi.2006@gmail.com](mailto:nithveenkavi.2006@gmail.com).
+*   ✉️  You can contact me at [kavi.erebe@gmail.com](mailto:kavi.erebe@gmail.com).
 *   🧠  I'm learning Full Stack Devlopment,Ethical Hacking,Trading.
 *   🤝  I'm open to collaborating on intersting project.
   
