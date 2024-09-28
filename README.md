@@ -8,7 +8,7 @@ Learning programming, software engineering, machine learning and everything . Wi
 
 *   🌍  I'm based in INDIA.
 *   ✉️  You can contact me at [kavi.erebe@gmail.com](mailto:kavi.erebe@gmail.com).
-*   🧠  I'm learning Full Stack Devlopment,Ethical Hacking,Trading.
+*   🧠  I'm learning Artificial Intelligence and Machine Learning ,Full Stack Devlopment.
 *   🤝  I'm open to collaborating on intersting project.
   
 <a href="https://www.x.com/ErebeKavi" target="_blank" rel="noreferrer"><img
