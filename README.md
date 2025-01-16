@@ -46,15 +46,5 @@ At **EFLabs**, we strive to deliver cutting-edge technological solutions while f
 Reach out to me via email or join the [EFLabs Discord Community](https://discord.gg/xep3XkSpEx).  
 
 ---
-
-### Recent Commits
-
-Here are some of my recent commits and contributions:
-
-- **[Add feature to optimize database queries in Transport Management System](https://github.com/NithveenKavi/Transport-Management-System/commit/123abc)** – Improved query efficiency for faster data retrieval.
-- **[Fix bug in movie-genre classification model](https://github.com/NithveenKavi/Movie-Genre-Classification/commit/456def)** – Addressed error in data preprocessing.
-- **[Update README for better documentation](https://github.com/NithveenKavi/Personal-Portfolio/commit/789ghi)** – Enhanced clarity of personal portfolio details.
-- **[Refactor CNN model to improve accuracy](https://github.com/NithveenKavi/CNN-Model/commit/abc123)** – Tweaked architecture for better classification performance.
-- **[Add login functionality for EFLabs website](https://github.com/NithveenKavi/EFLabs-Website/commit/xyz789)** – Integrated secure authentication system.
-
-Feel free to check out my GitHub for more contributions and open-source projects. 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NithveenKavi&show_icons=true&hide_title=true&count_private=true)
+---
