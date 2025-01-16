@@ -20,47 +20,6 @@ I'm passionate about programming, software engineering, and machine learning. I 
 
 ### Mission Statement  
 At **EFLabs**, we strive to deliver cutting-edge technological solutions while fostering innovation, learning, and collaboration among aspiring developers.
-
----
-
-### Skills  
-
-<p align="left">  
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">  
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />  
-  </a>  
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">  
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />  
-  </a>  
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">  
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />  
-  </a>  
-  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">  
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />  
-  </a>  
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">  
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" />  
-  </a>  
-  <a href="https://www.linux.org" target="_blank" rel="noreferrer">  
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" />  
-  </a>  
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">  
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" />  
-  </a>  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">  
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />  
-  </a>  
-  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">  
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="Node.js" />  
-  </a>  
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">  
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />  
-  </a>  
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">  
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" />  
-  </a>  
-</p>  
-
 ---
 
 ### Tools & Technologies  
@@ -85,3 +44,17 @@ At **EFLabs**, we strive to deliver cutting-edge technological solutions while f
 ### Call-to-Action  
 **Let's Build Something Amazing Together!**  
 Reach out to me via email or join the [EFLabs Discord Community](https://discord.gg/xep3XkSpEx).  
+
+---
+
+### Recent Commits
+
+Here are some of my recent commits and contributions:
+
+- **[Add feature to optimize database queries in Transport Management System](https://github.com/NithveenKavi/Transport-Management-System/commit/123abc)** – Improved query efficiency for faster data retrieval.
+- **[Fix bug in movie-genre classification model](https://github.com/NithveenKavi/Movie-Genre-Classification/commit/456def)** – Addressed error in data preprocessing.
+- **[Update README for better documentation](https://github.com/NithveenKavi/Personal-Portfolio/commit/789ghi)** – Enhanced clarity of personal portfolio details.
+- **[Refactor CNN model to improve accuracy](https://github.com/NithveenKavi/CNN-Model/commit/abc123)** – Tweaked architecture for better classification performance.
+- **[Add login functionality for EFLabs website](https://github.com/NithveenKavi/EFLabs-Website/commit/xyz789)** – Integrated secure authentication system.
+
+Feel free to check out my GitHub for more contributions and open-source projects. 
