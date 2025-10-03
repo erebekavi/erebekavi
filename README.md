@@ -46,7 +46,7 @@ At **EFLabs**, we strive to deliver cutting-edge technological solutions while f
 Reach out to me via email or join the [EFLabs Discord Community](https://discord.gg/xep3XkSpEx).  
 
 ---
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NithveenKavi&show_icons=true&hide_title=true&count_private=true)
+
 ---
 
 <div align="center">
@@ -56,7 +56,7 @@ Reach out to me via email or join the [EFLabs Discord Community](https://discord
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="center" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXIxZzR0MWZsanVqNTRmNWFjaTF4Y2ZnOWJpcmJrMGgwNG9wYTl2cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Q3pp9Y6LxBvoI/giphy.gif"  />
 
 ###
 
