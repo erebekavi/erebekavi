@@ -53,9 +53,3 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/erebekavi/erebekavi/output/snake.svg" alt="Snake animation" />
-
-###
-
