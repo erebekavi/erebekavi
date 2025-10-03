@@ -1,8 +1,8 @@
 # Hi 👋 Coders, I'm Nithveen Kavi  
 
-<p align="left">👋 Hey, I’m Nithveen Kavi P<br><br>I’m the Founder of EFLABS PVT. LTD, where we’re passionate about innovation, technology, and building impactful solutions.<br>At EFLABS, our focus is on bridging creativity and cutting-edge tech to deliver products that solve real-world challenges.<br><br>🚀 What I Do<br><br>🌱 Founder & Innovator at EFLABS Pvt. Ltd.<br>💡 Work on AI, Web, and Emerging Technologies<br>🔭 Explore new ways to bring ideas into scalable products<br>🤝 Collaborate on open-source and research-driven projects</p>
+### Programmer, Student & Startup Founder  
 
-###
+I'm passionate about programming, software engineering, and machine learning. I focus on learning and improving my skills in Python, HTML, CSS, MySQL, and more. My goal is to become a highly qualified professional in technology and programming.  
 
 - 🌍 Based in **India**  
 - ✉️ Personal Email: [kavi.erebe@gmail.com](mailto:kavi.erebe@gmail.com)  
@@ -11,7 +11,43 @@
 - 🤝 Open to collaborating on **interesting projects**  
 - 🚀 Founder & CEO of **EFLabs**, a freelancing company working on tender projects, focusing on web development, Android development, AI, and ML.  
 
-###
+### Connect with EFLabs  
+- 📷 Instagram: [eflabs.offical](https://www.instagram.com/eflabs.offical/)  
+- 🟦 Discord: [EFLabs Community](https://discord.gg/xep3XkSpEx)  
+
+
+---
+
+### Mission Statement  
+At **EFLabs**, we strive to deliver cutting-edge technological solutions while fostering innovation, learning, and collaboration among aspiring developers.
+---
+
+### Tools & Technologies  
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
+
+---
+
+### Fun Fact  
+> "Code is like humor. When you have to explain it, it’s bad."
+
+---
+
+### Call-to-Action  
+**Let's Build Something Amazing Together!**  
+Reach out to me via email or join the [EFLabs Discord Community](https://discord.gg/xep3XkSpEx).  
+
+---
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NithveenKavi&show_icons=true&hide_title=true&count_private=true)
+---
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=erebekavi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -24,22 +60,5 @@
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
-
-###
 
 
