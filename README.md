@@ -1,4 +1,4 @@
-# Hi 👋 Coders, I'm Nithveen Kavi  
+# Hi 👋 Buddy's, I'm Nithveen Kavi  
 
 ### Programmer, Student & Startup Founder  
 
