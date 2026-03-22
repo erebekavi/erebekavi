@@ -12,7 +12,7 @@ I'm passionate about programming, software engineering, and machine learning. I 
 - 🚀 Founder & CEO of **EFLabs**, a freelancing company working on tender projects, focusing on web development, Android development, AI, and ML.  
 
 ### Connect with EFLabs  
-- 📷 Instagram: [eflabs.offical](https://www.instagram.com/kavi.exe/)  
+- 📷 Instagram: [kavi.exe](https://www.instagram.com/kavi.exe/)  
 - 🟦 Discord: [EFLabs Community](https://discord.gg/xep3XkSpEx)  
 
 
