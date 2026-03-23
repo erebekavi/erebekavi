@@ -13,7 +13,7 @@ I'm passionate about programming, software engineering, and machine learning. I 
 
 ### Connect with EFLabs  
 - 📷 Instagram: [kavi.exe](https://www.instagram.com/kavi.exe/)  
-- 🟦 Discord: [EFLabs Community](https://discord.gg/xep3XkSpEx)  
+- 🟦 Discord: [EFLabs Community](https://discord.gg/r4hjXK5SeW)  
 
 
 ---
